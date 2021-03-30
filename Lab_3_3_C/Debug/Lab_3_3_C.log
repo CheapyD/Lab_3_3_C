@@ -1,0 +1,7 @@
+﻿  FuzzyNumber.cpp
+C:\Users\maksd\source\repos\Lab_3_3_C\Lab_3_3_C\FuzzyNumber.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Lab_3_3_C.cpp
+C:\Users\maksd\source\repos\Lab_3_3_C\Lab_3_3_C\Lab_3_3_C.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Object.cpp
+  Создание кода...
+  Lab_3_3_C.vcxproj -> C:\Users\maksd\source\repos\Lab_3_3_C\Debug\Lab_3_3_C.exe
